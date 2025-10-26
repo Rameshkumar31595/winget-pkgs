@@ -1,0 +1,29 @@
+# File: EugeneZrazhevsky.WeblocOpener.locale.en-US.yaml
+PackageIdentifier: EugeneZrazhevsky.WeblocOpener
+PackageVersion: 2.0.2
+PackageLocale: en-US
+Publisher: benchdoos
+Author: Eugene Zrazhevsky
+PackageName: WeblocOpener
+PackageUrl: https://github.com/benchdoos/WeblocOpener
+License: Apache-2.0
+ShortDescription: Open, create, and edit Apple .webloc files on Windows.
+Description: WeblocOpener is a simple way to open, create and edit Apple .webloc files on Windows. It can convert between .webloc, .url and .desktop shortcuts, and .webarchive to .html.
+Moniker: weblocopener
+Tags:
+  - converter
+  - apple
+  - html
+  - webloc
+ReleaseNotes: |-
+  What’s new
+  Improvements
+  - Improved the stability of the application and some of its components
+  - Reduced the size of the application and its components
+  - Added a setting to not convert .webarchive and open the original site if it's available
+  Fixed
+  - The installer has been fixed, now it supports newer versions of Java
+  - Fixed context menu for DuckDuckGo and Brave
+  - Fixed file opening with specific symbols
+ManifestType: locale
+ManifestVersion: 1.6.0
